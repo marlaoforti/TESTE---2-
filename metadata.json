@@ -1,0 +1,6 @@
+{
+  "name": "LabData Analyzer",
+  "description": "A technical dashboard for processing and analyzing laboratory sample data from spreadsheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
